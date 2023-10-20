@@ -1,4 +1,4 @@
-# ScrumGuide
+# ScrumGuide Analisando Cases de Sucesso
 Resenha crítica feita para o curso de scrum guide da DIO
 
 
